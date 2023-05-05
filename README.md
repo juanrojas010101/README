@@ -7,7 +7,7 @@ This is my personalrepo for README
         
  [![](https://visitcount.itsvg.in/api?id=Jeisonr0&icon=0&color=0)](https://visitcount.itsvg.in)
     <h1 align="center">Hi 😀, I’m @juanrojas010101<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
-    <h3 align="center">A passionate frontend developer from colombia</h3>
+    <h3 align="center">A passionate back-end developer from colombia</h3>
 </div>
 
 ### 👀 About me:
