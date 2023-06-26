@@ -49,11 +49,11 @@ This is my personalrepo for README
 
 
 ### 📚 My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jeisonr0&theme=black-ice&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juanrojas010101&theme=black-ice&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeisonr0&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanrojas010101&show_icons=true&theme=radical)
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeisonr0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanrojas010101&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg) 
 <!--
